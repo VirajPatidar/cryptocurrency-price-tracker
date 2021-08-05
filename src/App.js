@@ -18,10 +18,23 @@ function App() {
             .catch(error => console.log(error));
     }, []);
 
+    const handleChange = e => {
+        setSearch(e.target.value);
+    };
 
     return (
-        <div>
-            <h1>App</h1>
+        <div className='coin-app'>
+            <div className='coin-search'>
+                <h1 className='coin-text'>Search a currency</h1>
+                <form>
+                    <input
+                        className='coin-input'
+                        type='text'
+                        onChange={handleChange}
+                        placeholder='Search'
+                    />
+                </form>
+            </div>
         </div>
     );
 }
