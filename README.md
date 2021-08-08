@@ -4,7 +4,7 @@ _A web app to know the current cryptocurrency prices and other statistics, using
 
 <br/>
 
-**Link to the Web App:** []()
+**Link to the Web App:** [https://cryptocurrency-price-finder.netlify.app/](https://cryptocurrency-price-finder.netlify.app/)
 
 <br/>
 
