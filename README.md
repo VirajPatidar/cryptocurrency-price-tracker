@@ -1,4 +1,21 @@
-# Getting Started with Create React App
+# Cryptocurrency Price Tracker
+
+_A web app to know the current cryptocurrency prices and other statistics, using an API._
+
+<br/>
+
+**Link to the Web App:** []()
+
+<br/>
+
+**Tech Stack**
+* React
+* CoinGecko API
+* CSS
+
+<br/>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
